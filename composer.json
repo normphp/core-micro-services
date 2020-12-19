@@ -1,0 +1,24 @@
+{
+    "name": "normphp-core/micro-services",
+    "description": "encryption",
+    "keywords": ["DevOps","dev","ops"],
+    "homepage": "https://normphp.org/",
+    "authors": [
+        {
+            "name": "pizepei",
+            "email": "pizepei@pizepei.com"
+        }
+    ],
+    "require": {
+        "normphp/helper": "dev-master",
+        "php": ">=7.0.0"
+    },
+    "repositories": {
+    },
+    "autoload": {
+        "psr-4": {
+            "normphpCore\\microServices\\": "src/"
+        }
+    }
+
+}
