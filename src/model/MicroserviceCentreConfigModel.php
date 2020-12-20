@@ -4,7 +4,7 @@
  * 主要保存对应微服务的通讯配置
  */
 
-namespace normphpCore\microServices\model\microservice;
+namespace normphpCore\microServices\model;
 
 
 use normphp\model\db\Model;

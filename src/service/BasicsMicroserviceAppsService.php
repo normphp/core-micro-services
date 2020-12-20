@@ -5,11 +5,11 @@
  */
 declare(strict_types=1);
 
-namespace normphpCore\microServices\service\microservice;
+namespace normphpCore\microServices\service;
 
-use normphpCore\microServices\model\microservice\MicroserviceAppsConfigModel;
-use normphpCore\microServices\model\microservice\MicroserviceCentreConfigGroupsModel;
-use normphpCore\microServices\model\microservice\MicroserviceCentreConfigModel;
+use normphpCore\microServices\model\MicroserviceAppsConfigModel;
+use normphpCore\microServices\model\MicroserviceCentreConfigGroupsModel;
+use normphpCore\microServices\model\MicroserviceCentreConfigModel;
 use normphpCore\encryption\aes\Prpcrypt;
 use normphp\model\cache\Cache;
 use normphp\model\db\Model;

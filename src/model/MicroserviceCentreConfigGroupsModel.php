@@ -3,7 +3,7 @@
  *微服务分组表
  */
 
-namespace normphpCore\microServices\model\microservice;
+namespace normphpCore\microServices\model;
 
 
 use normphp\model\db\Model;

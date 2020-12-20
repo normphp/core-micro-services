@@ -3,7 +3,7 @@
  * 统一的appis请求日志（放在响应控制器中记录 使用微服务应用id做表名）
  */
 
-namespace normphpCore\microServices\model\microservice;
+namespace normphpCore\microServices\model;
 
 
 use normphp\model\db\Model;

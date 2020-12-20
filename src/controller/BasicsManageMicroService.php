@@ -11,7 +11,7 @@
 namespace normphpCore\microServices\controller;
 
 
-use normphpCore\microServices\service\microservice\BasicsMicroserviceAppsService;
+use normphpCore\microServices\service\BasicsMicroserviceAppsService;
 use normphp\staging\Controller;
 use normphp\staging\Request;
 

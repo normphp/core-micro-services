@@ -3,7 +3,7 @@
  * Class MicroserviceConfigModel
  * 微服务配置表
  */
-namespace normphpCore\microServices\model\microservice;
+namespace normphpCore\microServices\model;
 
 use normphp\model\db\Model;
 
